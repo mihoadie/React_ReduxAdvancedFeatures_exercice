@@ -5,3 +5,7 @@ requirements: .env file including the here below variable that corresponds to th
 
 
 subject covered: redux toolkit (configureStore in src/store/index.js with the import of each Slice as reducer  +   createSlice in src/store/cartSlice.js for example  with the export of the their corresponding actions    +     management of thunk functions in order to manage fetch calls asynchronously before dispatching synchronisly 
+
+npm install redux react-redux
+npm install @reduxjs/toolkit
+
